@@ -1,0 +1,11 @@
+{
+  "name": "showdown-battle-server",
+  "version": "1.0.0",
+  "main": "battle-server.js",
+  "scripts": {
+    "start": "node battle-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
